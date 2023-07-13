@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-color:#ECF8F8;
+  --text-color: #231E1A;
+  --text-site-color:#B2967D;
+  --bg-color2: #E7D8C9;
+  --panel-color:#E6BEAE;
+  --panel-color2:#EEE4E1;
+
+}
+
+
+
+#root{
+  height: 100%;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.app {
+  text-align: center;
+  height: 100%;
+  display: grid;
+  grid-template-rows: repeat(12,auto);
+
+}
+
+
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height:100%;
+
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+
+}
+
+ul li{
+  list-style-type: none;
+}
+
+

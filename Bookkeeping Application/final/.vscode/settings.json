@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/wendyhuang/Desktop/neu/class/info5100/Final project/poi-3.17.jar",
+        "/Users/wendyhuang/Desktop/neu/class/info5100/Final project/commons-codec-1.15/commons-codec-1.15.jar",
+        "/Users/wendyhuang/Desktop/neu/class/info5100/Final project/desktop-2.2.0.jar"
+    ],
+    "git.ignoreLimitWarning": true
+}

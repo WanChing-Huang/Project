@@ -1,0 +1,69 @@
+.button-link{
+    color: blue;
+    font-size: 1rem;
+    border: none;
+    text-decoration: underline;
+    cursor: pointer;
+    background-color: transparent;
+
+}
+
+
+.button--handle-left {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    border: none;
+    border-radius: 50%;
+
+    background-color: var(--panel-color);
+    font-size: 2rem;
+    color:var(--bg-color);
+    cursor: pointer;
+    
+}
+
+.button--handle-right {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    border: none;
+    border-radius: 50%;
+    
+    background-color: var(--panel-color);
+    font-size: 2rem;
+    color:var(--bg-color);
+    cursor: pointer;
+}
+
+.button-accordion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    grid-column: 2/12;
+    width: 100%;
+    
+    font-weight: bold;
+    font-size: 1rem;
+    
+
+}
+
+.button-accordion span{
+    padding-top: 0.7rem;
+}
+
+
+.button-accordion::after{
+    content:'+';
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0.5rem;
+  }
+
+.accordion--open::after{
+    content:'-';
+    font-size: 1rem;
+    font-weight: bold;
+}
+

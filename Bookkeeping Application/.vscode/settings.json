@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "poi-3.17.jar",
+        "commons-codec-1.15/commons-codec-1.15.jar",
+        "desktop-2.2.0.jar"
+    ]
+}

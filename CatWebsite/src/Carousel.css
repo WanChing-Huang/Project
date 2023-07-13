@@ -1,0 +1,44 @@
+
+.carousel{
+  grid-row: 2/7;
+  grid-column: 1/13;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  position: relative;
+}
+
+.slide__pic{
+    grid-column: 1/3;
+    width: 100%;
+    animation: fadeInLeft 5s;
+
+    
+}
+.true{
+  animation: fadeInRight 5s;
+}
+
+
+
+@keyframes fadeInRight {
+  0% {
+     opacity: 0;
+     transform: translateX(-1000px);
+  }
+  100% {
+     opacity: 1;
+     transform: translateX(0);
+  }
+}   
+
+
+@keyframes fadeInLeft {
+  0% {
+     opacity: 0;
+     transform: translateX(1000px);
+  }
+  100% {
+     opacity: 1;
+     transform: translateX(0);
+  }
+}

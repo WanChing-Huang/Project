@@ -1,0 +1,13 @@
+
+.skip-to-content {
+    left: 47%;
+    top: 2%;
+    transform: translateY(-200%);
+    position: absolute;
+ 
+  }
+  
+  .skip-to-content:focus {
+    transform: translateY(0%);
+  }
+     
