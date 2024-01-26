@@ -1,4 +1,6 @@
 Project Repository README
+
+
 Welcome to my repository containing a diverse set of projects showcasing my skills in full-stack development, backend programming, and data analysis. Each project represents a unique challenge and demonstrates my ability to leverage various technologies to create robust and engaging applications.
 
 1. Full Stack Movie Application
@@ -32,3 +34,5 @@ Effectively delegated tasks and coordinated work division within the team, close
 Feel free to explore each project's directory for detailed documentation, setup instructions, and additional information. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Thank you for visiting!
+
+WanChing Huang
