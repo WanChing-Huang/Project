@@ -1,0 +1,77 @@
+
+
+.card {
+  padding: 2em;
+}
+
+
+ 
+*{
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-color: whitesmoke;
+  --text-color: #3d4350;
+  --bg-color2: #D56F0C;
+}
+
+#root{
+  height: 100%;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+
+  margin: 0;
+    padding: 0;
+}
+
+.app {
+  text-align: center;
+
+  background-color: var(--bg-color);
+
+
+}
+
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height:100%;
+
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+
+}
+
+ul li{
+  list-style-type: none;
+}
+
+header{
+  background-image: url(/picture/IMG_9321.jpg);
+  background-size: cover;
+  background-position: left 10% bottom 60%;
+  background-color: transparent;
+}
+
+.header_title{
+  margin:0;
+  padding: 5rem;
+  text-shadow: 4px 4px 3px whitesmoke;
+
+  font-size: 4rem;
+  
+}
+
+.header_message{
+  margin: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  
+  background-color: var(--bg-color);
+  opacity: 0.7;
+}

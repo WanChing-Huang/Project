@@ -1,0 +1,271 @@
+// gst all post
+const arr = Object.values(users).map(post =>( post.getPosts()))
+
+[
+    {
+      '755ca48b-e3a5-44db-8bef-cce068b2f82b': {
+        id: '755ca48b-e3a5-44db-8bef-cce068b2f82b',
+        img: 'picture/IMG_8793.JPG',
+        title: 'Seattle best tapas',
+        text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+        address: 'Seattle',
+        commentList: [Object]
+      },
+      '619335c9-bdd1-47a1-aead-51040e44635e': {
+        id: '619335c9-bdd1-47a1-aead-51040e44635e',
+        img: 'picture/IMG_8793.JPG',
+        title: 'Seattle best seafood',
+        text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+        address: 'Seattle 1111',
+        commentList: [Object]
+      }
+    },
+    {
+      '720ce8e9-1d31-48b2-9591-a162f9c7883e': {
+        id: '720ce8e9-1d31-48b2-9591-a162f9c7883e',
+        img: 'picture/IMG_8793.JPG',
+        title: 'Seattle best tapas',
+        text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+        address: 'Seattle',
+        commentList: [Object]
+      },
+      '7ab67523-6f6b-4778-b846-7e44a90f9b2c': {
+        id: '7ab67523-6f6b-4778-b846-7e44a90f9b2c',
+        img: 'picture/IMG_8793.JPG',
+        title: 'Seattle best seafood',
+        text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+        address: 'Seattle 1111',
+        commentList: [Object]
+      }
+    }
+  ]
+  
+  //get all post array with no id
+
+  const arr = Object.values(users).map(post =>( post.getPosts())
+
+).map(com => Object.values(com))
+
+[
+    [
+      {
+        id: 'e75b6248-8d43-457c-81b2-39c72ac170c4',
+        img: 'picture/IMG_8793.JPG',
+        title: 'Seattle best tapas',
+        text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+        address: 'Seattle',
+        commentList: [Object]
+      },
+      {
+        id: 'dc38cbbe-3deb-476d-a30c-91084f2cf9d0',
+        img: 'picture/IMG_8793.JPG',
+        title: 'Seattle best seafood',
+        text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+        address: 'Seattle 1111',
+        commentList: [Object]
+      }
+    ],
+    [
+      {
+        id: 'aacb1d61-8aee-42cd-b1eb-f3ec66073942',
+        img: 'picture/IMG_8793.JPG',
+        title: 'Seattle best tapas',
+        text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+        address: 'Seattle',
+        commentList: [Object]
+      },
+      {
+        id: 'bed35de4-510f-4ec1-80af-b6f065d4c533',
+        img: 'picture/IMG_8793.JPG',
+        title: 'Seattle best seafood',
+        text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+        address: 'Seattle 1111',
+        commentList: [Object]
+      }
+    ]
+  ]
+
+
+//get all comments !!!
+
+const arr = Object.values(users).map(post =>( post.getPosts())
+
+).map(com => Object.values(com))
+
+
+const allObjects = arr.flat(2).flatMap(innerArray => innerArray);
+
+node /tmp/CJ7gLm42Ho.js
+[
+  {
+    id: 'e75b6248-8d43-457c-81b2-39c72ac170c4',
+    img: 'picture/IMG_8793.JPG',
+    title: 'Seattle best tapas',
+    text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+    address: 'Seattle',
+    commentList: [ [Function: Object] ]
+  },
+  {
+    id: 'dc38cbbe-3deb-476d-a30c-91084f2cf9d0',
+    img: 'picture/IMG_8793.JPG',
+    title: 'Seattle best seafood',
+    text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+    address: 'Seattle 1111',
+    commentList: [ [Function: Object] ]
+  },
+  {
+    id: 'aacb1d61-8aee-42cd-b1eb-f3ec66073942',
+    img: 'picture/IMG_8793.JPG',
+    title: 'Seattle best tapas',
+    text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+    address: 'Seattle',
+    commentList: [ [Function: Object] ]
+  },
+  {
+    id: 'bed35de4-510f-4ec1-80af-b6f065d4c533',
+    img: 'picture/IMG_8793.JPG',
+    title: 'Seattle best seafood',
+    text: "The idea of diving into a mix of small, tasty bites with tapas is like a flavor adventure waiting to happen. I can almost imagine the zing of olives, the kick of chorizo, and the comfort of patatas bravas. Then there's the seafood plate, promising a sea-inspired feast with juicy shrimp, tender calamari, and maybe even some grilled octopus. It's like a culinary trip to the ocean on a plate. Just thinking about it makes me crave the delightful blend of Spanish goodness, and the shared joy of digging into these dishes with friends or family. Can't wait to turn these tasty thoughts into a reality! ",
+    address: 'Seattle 1111',
+    commentList: [ [Function: Object] ]
+  }
+]
+
+
+
+//get commemts obj
+  const arr = Object.values(users).map(post =>( post.getPosts())
+
+).map(com => Object.values(com).map(po => po.commentList)
+
+[
+    [
+      {
+        getComments: [Function: getComments],
+        addComment: [Function: addComment],
+        getCommentById: [Function: getCommentById],
+        getCommentByUsername: [Function: getCommentsByUsername]
+      },
+      {
+        getComments: [Function: getComments],
+        addComment: [Function: addComment],
+        getCommentById: [Function: getCommentById],
+        getCommentByUsername: [Function: getCommentsByUsername]
+      }
+    ],
+    [
+      {
+        getComments: [Function: getComments],
+        addComment: [Function: addComment],
+        getCommentById: [Function: getCommentById],
+        getCommentByUsername: [Function: getCommentsByUsername]
+      },
+      {
+        getComments: [Function: getComments],
+        addComment: [Function: addComment],
+        getCommentById: [Function: getCommentById],
+        getCommentByUsername: [Function: getCommentsByUsername]
+      }
+    ]
+  ]
+
+
+
+
+// get all comments
+
+const arr = Object.values(users).map(post =>( post.getPosts())
+
+).map(com => Object.values(com).map(po => po.commentList.getComments()));
+
+[
+    [
+      {
+        '6378eaef-1e47-4737-a7cf-5036a7b94979': [Object],
+        '9384cebb-d453-40e8-8722-554ff0f60c4f': [Object]
+      },
+      {
+        '950dc74f-d0ea-4417-8d32-87b29b8ff0c6': [Object],
+        'be17b837-9093-47d4-9918-bf704b058557': [Object]
+      }
+    ],
+    [
+      {
+        '3cf09d1a-a321-4c6f-b83f-2d53dccd04ae': [Object],
+        'f82c2130-b3e8-4ece-a84c-c025c2de8b25': [Object]
+      },
+      {
+        '85cf51c5-28b6-40aa-b950-29a0e8916444': [Object],
+        '40f62ea4-518a-453f-82bf-c5e3efb57072': [Object]
+      }
+    ]
+  ]
+
+//get all comment obj
+
+
+const arr = Object.values(users).map(post =>( post.getPosts())
+
+).map(com => Object.values(com).map(po => Object.values(po.commentList.getComments)));
+
+const arr2 = arr.flat(3).flatMap(innerArray => innerArray);
+console.log(arr2);
+
+[
+    {
+      id: 'cd37e3c6-1dbd-4e0d-858b-8ffbe7ac475d',
+      username: 'Happy',
+      text: "That's goood!!"
+    },
+    {
+      id: '1213ff5d-6b61-49c9-b88d-e94f8dc03205',
+      username: 'Cookie',
+      text: "That's delicious!!"
+    },
+    {
+      id: 'a8a3aa17-1b18-4e31-99af-2171537d0772',
+      username: 'Happy',
+      text: "That's goood!!"
+    },
+    {
+      id: '370a99b4-11cc-4bc2-ba9a-c6490673848e',
+      username: 'Cookie',
+      text: "That's delicious!!"
+    },
+    {
+      id: '4cb1f97e-39dd-471d-8764-c6ca98bfda3a',
+      username: 'Happy',
+      text: "That's goood!!"
+    },
+    {
+      id: '1a0e2a6c-ac4f-4f8a-b35e-1954c33f22e2',
+      username: 'Cookie',
+      text: "That's delicious!!"
+    },
+    {
+      id: 'f7394b90-64ba-4476-a6c9-1795109e536e',
+      username: 'Happy',
+      text: "That's goood!!"
+    },
+    {
+      id: '80b2e4e1-6abf-4f58-8bb1-2d8fa3f804a7',
+      username: 'Cookie',
+      text: "That's delicious!!"
+    }
+
+    
+//get text
+
+const arr2 = arr.flat(3).flatMap(innerArray => innerArray.text);
+console.log(arr2);
+
+[
+    "That's goood!!",
+    "That's delicious!!",
+    "That's goood!!",
+    "That's delicious!!",
+    "That's goood!!",
+    "That's delicious!!",
+    "That's goood!!",
+    "That's delicious!!"
+  ]

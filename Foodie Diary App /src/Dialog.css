@@ -1,0 +1,55 @@
+
+.dialog{
+    border-radius: 3px;
+    border-color: aliceblue;
+    padding: 2rem;
+
+
+}
+
+
+.header{
+   font-size: 1rem;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.comment-list{
+    display: grid;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: stretch;
+
+    width: rem;
+
+}
+
+.comment-list_comment{
+    display: flex;
+    padding-left:1rem;
+    padding-right: 1rem; 
+}
+.comment-list_username{
+    margin: 1rem;
+}
+
+.comment-list_content{
+    margin: 1rem;
+}
+.comment_form{
+    
+  display: flex;
+}
+.comment__button{
+    margin-left: 0.5rem;
+}
+
+.form-close{
+    margin: 1rem;
+}
