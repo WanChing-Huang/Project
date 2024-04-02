@@ -17,7 +17,7 @@ Welcome to my project portfolio repository! This repository contains a variety o
   - Implemented comment and trailer viewing functionalities to enhance user engagement.
   - Developed carousel and table components for improved data visualization and user experience.
 
-## 2. Foodie Diary Sharing App
+## 2. Foodie Diary Sharing Web
 
 - **Tech Stack:** JavaScript, Express.js, React.js, Vite, Webpack, Nodemon
 - **Description:**
