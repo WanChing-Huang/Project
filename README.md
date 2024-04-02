@@ -41,12 +41,6 @@ Welcome to my project portfolio repository! This repository contains a variety o
   - Created a multi-page website using React and CSS with a Single Page Application (SPA) design approach.
   - Expanded functionality with features like form validation, image slideshow carousel, interactive pop-up window dialog, and collapsible content sections.
 
-## 5. Group Project Weather Search Tool
-
-- **Tech Stack:** Python, Beautiful Soup,Flask
-- **Description:**
-  - Leveraged Request, Beautiful Soup, and Flask for data crawling and analysis to develop an HTML website.
-  - Effectively delegated tasks and coordinated work division within the team, closely monitoring progress.
 
 ## Getting Started
 
