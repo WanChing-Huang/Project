@@ -13,14 +13,16 @@ Welcome to the Foodie Diary Sharing App! Share your restaurant experiences, disc
 
 ## About
 
+Created a multi-page website using React and CSS with a Single Page Application (SPA) design approach.
+  - Expanded functionality with features like form validation, image slideshow carousel, interactive pop-up window dialog, and collapsible content sections.
 
 ## Features
 
-- **User Authentication:** Secure user authentication system for logging in and managing personal profiles.
-- **View and Manage Posts:** After login, users can view all of their posts and manage them, making updates or deletions as needed.
-- **Post Sharing:** Share your restaurant experiences by creating posts with images and descriptions.
-- **Comments:** Engage with other users by adding comments to their posts.
-- **Discover New Places:** Explore new restaurants and dishes recommended by the community.
+- **Single Page Application (SPA) Design:** Utilized React to develop a multi-page website following the Single Page Application (SPA) design approach, enhancing user experience with seamless navigation.
+- **Form Validation:** Implemented form validation to ensure data integrity and accuracy, providing users with real-time feedback on input errors.
+- **Image Slideshow Carousel:** Integrated an image slideshow carousel feature to showcase visual content attractively, enhancing the website's aesthetic appeal and user engagement.
+- **Interactive Pop-up Window Dialog:** Incorporated interactive pop-up window dialogs for displaying important information or alerts, creating a dynamic and engaging user experience.
+- **Collapsible Content Sections:** Enhanced usability by incorporating collapsible content sections, allowing users to efficiently navigate and focus on desired information while minimizing clutter.
 
 
 ## Prerequisites
