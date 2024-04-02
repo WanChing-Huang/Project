@@ -1,6 +1,4 @@
-# Foodie Diary Sharing App
-
-Welcome to the Foodie Diary Sharing App! Share your restaurant experiences, discover new places, and connect with other foodies.
+# Cat Website
 
 ## Table of Contents
 
