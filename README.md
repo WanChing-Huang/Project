@@ -8,7 +8,6 @@ Welcome to my project portfolio repository! This repository contains a variety o
 2. [Full Stack Foodie Diary Sharing App](#2-full-stack-foodie-diary-sharing-app)
 3. [Bookkeeping Application](#3-bookkeeping-application)
 4. [Cat Website](#4-cat-website)
-5. [Group Project Weather Search Tool](#5-group-project-weather-search-tool)
 
 ## 1. Movie Application
 
