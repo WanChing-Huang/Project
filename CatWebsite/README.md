@@ -14,7 +14,7 @@ Welcome to the Foodie Diary Sharing App! Share your restaurant experiences, disc
 ## About
 
 Created a multi-page website using React and CSS with a Single Page Application (SPA) design approach.
-  - Expanded functionality with features like form validation, image slideshow carousel, interactive pop-up window dialog, and collapsible content sections.
+Expanded functionality with features like form validation, image slideshow carousel, interactive pop-up window dialog, and collapsible content sections.
 
 ## Features
 
