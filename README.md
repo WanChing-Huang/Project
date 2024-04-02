@@ -4,12 +4,12 @@ Welcome to my project portfolio repository! This repository contains a variety o
 
 ## Table of Contents
 
-1. [Full Stack Movie Application](#1-full-stack-movie-application)
-2. [Full Stack Foodie Diary Sharing App](#2-full-stack-foodie-diary-sharing-app)
+1. [Full Stack Movie Recommedation Website](#1-full-stack-movie-application)
+2. [Full Stack Foodie Diary Sharing Website](#2-full-stack-foodie-diary-sharing-app)
 3. [Bookkeeping Application](#3-bookkeeping-application)
 4. [Cat Website](#4-cat-website)
 
-## 1. Movie Application
+## 1. Movie Recommedation Website
 
 - **Tech Stack:** Java Spring Boot, MongoDB, React
 - **Description:**
@@ -17,7 +17,7 @@ Welcome to my project portfolio repository! This repository contains a variety o
   - Implemented comment and trailer viewing functionalities to enhance user engagement.
   - Developed carousel and table components for improved data visualization and user experience.
 
-## 2. Foodie Diary Sharing Web
+## 2. Foodie Diary Sharing Website
 
 - **Tech Stack:** JavaScript, Express.js, React.js, Vite, Webpack, Nodemon
 - **Description:**
