@@ -40,11 +40,14 @@ Follow these steps to set up the Foodie Diary Sharing App locally.
 ### Installation
 
 # Navigate to the project directory
+download two Foodie Diary Web file and combine to one 
 cd Project/Foodie Diary Web
 # Install dependencies
 npm install
 # Start the app
 npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
 ## License
 
