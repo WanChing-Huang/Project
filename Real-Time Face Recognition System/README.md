@@ -43,3 +43,6 @@ The model consists of:
 - ROC-AUC score: 0.99
 
 ## Demo
+
+![](demo.gif)
+
