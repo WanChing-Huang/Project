@@ -44,6 +44,6 @@ The model consists of:
 
 ## Demo
 
---
+
 ![](demo.gif)
 
